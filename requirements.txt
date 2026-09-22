@@ -1,0 +1,5 @@
+aiosqlite
+openai
+pydantic
+pydantic-settings
+telegram
